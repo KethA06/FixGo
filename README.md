@@ -7,7 +7,6 @@ It connects **customers**, **service providers**, **companies**, and **administr
 The platform helps users easily **find**, **book**, **pay**, and **review** service providers while ensuring trust through verification and transparent feedback mechanisms.
 
 ---
-
 ## Team Information
 **Project Name:** FixGo  
 **Group:** 22  
